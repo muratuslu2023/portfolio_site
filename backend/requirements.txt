@@ -1,0 +1,5 @@
+django
+psycopg[binary]  # The adapter that lets Python talk to PostgreSQL
+django-cors-headers  # Crucial for allowing your React frontend to talk to your API
+gunicorn  # The production-grade web server for Django
+djangorestframework
